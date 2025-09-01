@@ -13,7 +13,6 @@ export default function Header() {
                     <li className="p-2 flex items-center">Tools & Guides <span className="cursor-pointer"><HiChevronDown /></span></li>
                     
                 </ul>
-
                 <div className="font-bold ">
                 <button className="hover:bg-gray-500 rounded-md p-3 cursor-pointer transition-all duration-200 mr-3">My Grammarly</button>
                 <button className="bg-green-800 hover:bg-green-950 text-white rounded-md p-3 cursor-pointer transition-all duration-200">Start a free trial</button>
